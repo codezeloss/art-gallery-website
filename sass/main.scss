@@ -125,6 +125,8 @@ body {
 }
 
 .home {
+  //////////////////////////////////////////////////////////////////////////////
+  // Those lines of code bellow are from the "Fraser Watt" challenge solution code
   padding-top: 190px;
   position: relative;
   background: url(/assets/desktop/image-hero@2x.jpg),
@@ -139,6 +141,8 @@ body {
   background-size: auto 50rem;
   background-position-y: top;
   background-position-x: center;
+  ///////////////////////////////////////////////////////////////////////////
+  ///////////////////////////////////////////////////////////////////////////
 
   @media only screen and (max-width: 711px) {
     background-image: none;
