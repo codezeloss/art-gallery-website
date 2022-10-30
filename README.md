@@ -1,6 +1,6 @@
 # Frontend Mentor - Art gallery website
 
-Live: [link](https://elosscode.github.io/art-gallery-website/)
+Live: [link](https://codezeloss.github.io/art-gallery-website/)
 
 ![Design preview for the Art gallery website coding challenge](./preview.jpg)
 
